@@ -20,18 +20,69 @@
     embedded
     arjs="trackingMethod: best; sourceType: webcam;debugUIEnabled: false;">
         <a-marker preset="hiro">
-          
+          <!--Shapes-->
             <a-entity id="box" geometry="primitive: box; width: 0.5; depth: 0.5; height: 0.5" position="-0.5 0.5 1.5" material="color: #4CC3D9"></a-entity>
-            <a-entity id="sphere" geometry="primitive: sphere; radius: 0.2" material="color: #EF2D5E" position="1 2 1"></a-entity>
-            <a-entity id="cylinder" geometry="primitive: cylinder; radius: 0.2; height: 0.2" position="1 0.25 0.5" material="color: #FFC65D"></a-entity>
+            <a-entity id="sphere" geometry="primitive: sphere; radius:  0.2" material="color: #EF2D5E" position="1 2 1"></a-entity>
+            <a-entity id="cylinder" geometry="primitive: cylinder; radius: 0.2; height: 0.2" position="1 0,25 0.5" material="color: #FFC65D"></a-entity>
 
-           
-            <a-entity id="annyang" annyang-speech-recognition></a-entity>
-            <a-entity id="links" position="0 2 -10" particle-system="preset: snow" visible="false"
+            <!--Snow-->
+                <a-entity id="annyang" annyang-speech-recognition></a-entity>
+             <script src="aframe-speech-command-component.js"></script>
+            <a-entity id="menu" position="0 2.25 -15" particle-system="preset: snow" visible="false"
              speech-command__show="command: start; type: attribute; attribute: visible; value: true;"
              speech-command__hide="command: stop; type: attribute; attribute: visible; value: false;">
             </a-entity>
             </a-marker>
+
+
+    <!--Reading my dpsd marker-->
+    <a-marker-camera type='pattern' url='assets/pattern-DPSD7.patt'>
+    <!--Showing my name and the image-->
+    <a-text value="DIMITRIS" position="1 0.5 0" ></a-text>
+    <a-text value="RAPTIS" position="1 1 0"></a-text>
+    <a-image src="assets/sponge.jpg" position="0 0.5 0"></a-image>
+    </a-marker-camera>
+
+
+    <!--Define the gltf hydro asset-->
+    <a-assets>
+    <a-asset-item id="hydro" src="assets/hydrogen.gltf"></a-asset-item>
+    </a-assets>
+    <!--Reading and showing the H atom-->
+    <a-marker type='pattern' url='assets/pattern-card-H.patt'>
+    <!--use the glb hydro model-->
+    <a-entity gltf-model="#hydro" scale= "0.2 0.2 0.2";></a-entity>
+    </a-marker>
+
+
+    <!--Define the gltf oxy asset-->
+    <a-assets>
+    <a-asset-item id="oxy" src="assets/oxygen.gltf"></a-asset-item>
+    </a-assets>
+    <!--Reading and showing the O atom-->
+    <a-marker type='pattern' url='assets/pattern-card-O.patt'>
+    <!--use your glb oxy model-->
+    <a-entity gltf-model="#oxy" scale= "0.5 0.5 0.5";></a-entity>
+    </a-marker>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         <a-entity camera></a-entity>
         </a-scene>
     </body>

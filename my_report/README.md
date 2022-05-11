@@ -38,6 +38,9 @@ https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi2
 
 
 -ΕΙΚΟΝΕΣ
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 # 3rd Deliverable 

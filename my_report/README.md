@@ -30,7 +30,8 @@ https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi2
 
 # 2nd Deliverable
 - Έφτιαξα στο blender τα δύο χημικά στοιχεία το οξυγόνο και το υδρογόνο 
-- Τα αποθήκευσα με μορφή τέτοια ώστε να φαίνεται σε 3d μοντέλο όταν εμφανίζω το κατάλληλο marker στην κάμερα
+- Έπειτα έφτιαξα και το νερό στο blender
+- Τα αποθήκευσα με μορφή τέτοια (gltf) ώστε να φαίνεται σε 3d μοντέλο όταν εμφανίζω το κατάλληλο marker στην κάμερα
 - Έφτιαξα το marker με το όνομα μου και το dpsd μου στην ζωγρφική και επειτα με την βοήθεια της σελίδας
 - Το ίδιο έκανα και για το οξυγόνο και για το υδρογόνο
 - Κατέβασα μία φωτογραφία η οποία θα φαίνεται πάνω από το όνομα μου
@@ -46,7 +47,7 @@ https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi2
 Liks (sources)
 - [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [w3schools](https://www.w3schools.com/html/default.asp)
-- [GitHub Pages](https://pages.github.com/)
+- [Marker](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
 
 
 
@@ -60,5 +61,5 @@ Liks (sources)
 - [speech command](https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi233UV9Pch2uzhVzmyfErhGay3xs1jlC6ZxhI24JP510elv3JC8A)
 - [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [w3schools](https://www.w3schools.com/html/default.asp)
-- [GitHub Pages](https://pages.github.com/)
+- [Marker](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
 - A frame library

@@ -53,5 +53,8 @@ https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi2
 
 
 # Sources
-[speech command](https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi233UV9Pch2uzhVzmyfErhGay3xs1jlC6ZxhI24JP510elv3JC8A)[Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)[w3schools](https://www.w3schools.com/html/default.asp)[GitHub Pages](https://pages.github.com/)
-,A frame library
+- [speech command](https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi233UV9Pch2uzhVzmyfErhGay3xs1jlC6ZxhI24JP510elv3JC8A)
+- [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [w3schools](https://www.w3schools.com/html/default.asp)
+- [GitHub Pages](https://pages.github.com/)
+- A frame library

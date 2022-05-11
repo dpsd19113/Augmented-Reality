@@ -29,6 +29,15 @@ https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi2
 
 
 # 2nd Deliverable
+- Έφτιαξα στο blender τα δύο χημικά στοιχεία το οξυγόνο και το υδρογόνο 
+- Τα αποθήκευσα με μορφή τέτοια ώστε να φαίνεται σε 3d μοντέλο όταν εμφανίζω το κατάλληλο marker στην κάμερα
+- Έφτιαξα το marker με το όνομα μου και το dpsd μου στην ζωγρφική και επειτα με την βοήθεια της σελίδας
+- Το ίδιο έκανα και για το οξυγόνο και για το υδρογόνο
+- Κατέβασα μία φωτογραφία η οποία θα φαίνεται πάνω από το όνομα μου
+- Πρόσθεσα όλα τα παραπάνω στο git hub
+
+
+-ΕΙΚΟΝΕΣ
 
 
 # 3rd Deliverable 
@@ -38,3 +47,5 @@ https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi2
 
 
 # Sources
+https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi233UV9Pch2uzhVzmyfErhGay3xs1jlC6ZxhI24JP510elv3JC8A
+,A frame library

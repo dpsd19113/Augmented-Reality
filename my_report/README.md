@@ -43,6 +43,10 @@ https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi2
 ![Water](https://github.com/dpsd19113/Augmented-Reality/blob/main/marker_based/water.png)
 ![Assets](https://github.com/dpsd19113/Augmented-Reality/blob/main/marker_based/assets_image.png)
 
+Liks (sources)
+- [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [w3schools](https://www.w3schools.com/html/default.asp)
+- [GitHub Pages](https://pages.github.com/)
 
 
 

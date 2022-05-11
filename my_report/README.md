@@ -38,7 +38,7 @@ https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi2
 
 
 -ΕΙΚΟΝΕΣ
-![This is an image](https://dpsd19113/Augmented-Reality/blob/main/marker_based/hydrogen.png)
+![Hydrogen](https://github.com/dpsd19113/Augmented-Reality/blob/main/marker_based/hydrogen.png)
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 

@@ -41,6 +41,9 @@ https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi2
 ![Hydrogen](https://github.com/dpsd19113/Augmented-Reality/blob/main/marker_based/hydrogen.png)
 ![Oxygen](https://github.com/dpsd19113/Augmented-Reality/blob/main/marker_based/oxygen.png)
 ![Water](https://github.com/dpsd19113/Augmented-Reality/blob/main/marker_based/water.png)
+![Assets](https://github.com/dpsd19113/Augmented-Reality/blob/main/marker_based/assets_image.png)
+
+
 
 
 # 3rd Deliverable 

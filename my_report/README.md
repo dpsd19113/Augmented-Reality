@@ -22,8 +22,8 @@
 
 
 links sites που χρησιμοποιήθηκαν :
-https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi233UV9Pch2uzhVzmyfErhGay3xs1jlC6ZxhI24JP510elv3JC8A
-,A frame library
+- [speech command](https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR1ARcfi233UV9Pch2uzhVzmyfErhGay3xs1jlC6ZxhI24JP510elv3JC8A)
+- A frame library
 
 
 

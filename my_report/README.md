@@ -61,7 +61,10 @@ Links (sources)
 - 
 
 Εικόνες
--
+![Sketchfab](https://github.com/dpsd19113/Augmented-Reality/blob/main/location_based/sketchfab.png)
+![Wikipedia](https://github.com/dpsd19113/Augmented-Reality/blob/main/location_based/wikipedia.png)
+![3D Model](https://github.com/dpsd19113/Augmented-Reality/blob/main/location_based/wikipedia.png)
+![3D Model](https://github.com/dpsd19113/Augmented-Reality/blob/main/location_based/3dmodel.png)
 Links (sources)
 - [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [w3schools](https://www.w3schools.com/html/default.asp)

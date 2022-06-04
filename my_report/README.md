@@ -57,7 +57,7 @@ Links (sources)
 - Έψαξα στο site [Sketchfab](https://sketchfab.com/feed) και βρήκα ένα 3d model που μου άρεσε
 - Κατέβασα το μοντέλο και έπειτα το πέρασα στο blender έτσι ώστε να το κάνω export σαν .gltf αρχείο για να μπορώ να το περάσω στο github και έπιτα στον κώδικα
 - Βρήκα στο [Wikipedia](https://en.wikipedia.org/wiki/Taj_Mahal) τις απαραίτητες πληροφορίες που ήθελα να εμφανίζονται όταν πατάω πάνω στο 3D μοντέλο 
-- Πρόσθεσα ακομά κάποια πράγματα στον κώδικα ώστε το μοντέλο να έχει το σωστό scale και να φαίνεται κάτω από αυτό το text 
+- Πρόσθεσα ακομά κάποια πράγματα στον κώδικα, ώστε το μοντέλο να έχει το σωστό scale και να φαίνεται κάτω από αυτό το text 
 - 
 
 Εικόνες
@@ -65,10 +65,12 @@ Links (sources)
 ![Wikipedia](https://github.com/dpsd19113/Augmented-Reality/blob/main/location_based/wikipedia.png)
 ![3D Model](https://github.com/dpsd19113/Augmented-Reality/blob/main/location_based/wikipedia.png)
 ![3D Model](https://github.com/dpsd19113/Augmented-Reality/blob/main/location_based/3dmodel.png)
+
 Links (sources)
 - [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [w3schools](https://www.w3schools.com/html/default.asp)
-- 
+- [Sketchfab](https://sketchfab.com/feed) 
+- [Wikipedia](https://en.wikipedia.org/wiki/Taj_Mahal)
 # Conclusions
 
 
